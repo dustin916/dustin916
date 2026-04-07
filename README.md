@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dustin 
 
-<!--
-**dustin916/dustin916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building real-world applications and continuously improving my skills in full-stack and mobile development.
 
-Here are some ideas to get you started:
+## Current Focus
+- Building a church management SaaS platform: **UnifiedFlock**
+- Expanding into mobile development with Flutter
+- Strengthening backend development with Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Python, HTML, CSS
+- **Frameworks:** Django, Flask
+- **Tools:** Git, VS Code, Flutter, Android SDK
+
+## Featured Projects
+
+### UnifiedFlock (In Progress)
+A full church management SaaS platform with mobile and web support.
+- Django backend (API + web)
+- Flutter mobile app
+- Features: messaging, member management, and more
+
+### ShopOps (Planned / In Development)
+A cross-platform auto repair shop management application built with Flutter.
+- Desktop-first design with potential mobile support
+- Customer and vehicle record management
+- Repair order tracking
+- Inspection checklists
+- PDF/export functionality
+- Designed to streamline real-world shop workflows
+
+### Sacramento Church Website
+A production Django website built and deployed for a real church organization.
+
+### Dustin's Blog
+My first Django project where I learned full-stack fundamentals and deployment.
+
+### DustinWebs
+A Flask-based website project for a web development business concept.
+
+## Goals
+- Become a strong full-stack developer
+- Build scalable SaaS applications
+- Continue learning modern frameworks and best practices
+
+---
+
+Open to opportunities and collaborations
