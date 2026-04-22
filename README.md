@@ -40,7 +40,7 @@ A Flask-based website project for a web development business concept.
 
 ## Goals
 - Become a strong full-stack developer
-- Build scalable SaaS applications
+- Build scalable SaaS applications and/or websites
 - Continue learning modern frameworks and best practices
 
 ---
