@@ -1,6 +1,6 @@
 # Hi, I'm Dustin 
 
-I'm a developer focused on building real-world applications and continuously improving my skills in full-stack and mobile development.
+I'm a full-stack developer focused on building real-world SaaS and mobile applications that solve practical problems for organizations and small businesses.
 
 ## Current Focus
 - Building a church management SaaS platform: **UnifiedFlock**
@@ -8,40 +8,55 @@ I'm a developer focused on building real-world applications and continuously imp
 - Strengthening backend development with Django
 
 ## Tech Stack
-- **Languages:** Python, HTML, CSS
-- **Frameworks:** Django, Flask
-- **Tools:** Git, VS Code, Flutter, Android SDK
+- Languages: Python, Dart, HTML, CSS
+- Backend: Django, Flask
+- Mobile: Flutter
+- Tools: Git, VS Code, Android Studio
+- Concepts: REST APIs, Multi-tenancy, Authentication, Real-time systems
 
 ## Featured Projects
 
 ### UnifiedFlock (In Progress)
-A full church management SaaS platform with mobile and web support.
-- Django backend (API + web)
-- Flutter mobile app
-- Features: messaging, member management, and more
+A multi-tenant SaaS platform built with Django and Flutter for managing churches and community groups. Designed to centralize communication, event coordination, and member engagement within church organizations.
+- Multi-tenant architecture (data isolation per organization)
+- Django backend with API-first design
+- Flutter mobile application
+- Real-time messaging and announcements
+- Prayer request system with privacy controls
+- Event and member management system
 
-### ShopOps (Planned / In Development)
-A cross-platform auto repair shop management application built with Flutter.
-- Desktop-first design with potential mobile support
-- Customer and vehicle record management
-- Repair order tracking
-- Inspection checklists
-- PDF/export functionality
-- Designed to streamline real-world shop workflows
+###ShopOps (In Development)
+A cross-platform auto repair shop management system built with Django and Flutter, designed to streamline day-to-day operations for independent mechanics and small automotive businesses. ShopOps focuses on digitizing core shop workflows, reducing paperwork, and improving visibility across customers, vehicles, and repair history.
+- Django backend with REST API architecture
+- Flutter mobile and desktop frontend
+- Customer and vehicle management system
+- Repair order tracking with full service history
+- Digital inspection checklists for technicians
+- Invoice and report generation (PDF export)
+- Designed with scalability for multi-location shop support (future expansion)
 
-### Sacramento Church Website
-A production Django website built and deployed for a real church organization.
-
-### Dustin's Blog
-My first Django project where I learned full-stack fundamentals and deployment.
+### Sacramento Church Website (Production Application)
+A production-grade church website built with Django, serving as the primary digital platform for Sacramento Wesleyan Methodist Church for over a year.
+- Multimedia and sermon distribution
+- Community outreach features
+- Admin-managed content system
 
 ### DustinWebs
-A Flask-based website project for a web development business concept.
+DustinWebs was designed as a professional business landing page for my freelance web development services. Moving way from the hobbyist feel of my earlier projects, this site emphasized better design, solid code structure, and strong user input validation.
+
+### Dustin's Blog (Production Application)
+This was my first major step into web development, built to serve as a platform for my personal blog, photography, and sermon audio. What started as a learning project evolved into a deployed application used by a community of subscribers to stay updated with my weekly content.
 
 ## Goals
 - Become a strong full-stack developer
 - Build scalable SaaS applications and/or websites
 - Continue learning modern frameworks and best practices
+
+## Currently Learning
+- Advanced Django architecture (multi-tenant SaaS patterns)
+- Flutter state management (Provider / Riverpod)
+- API design and backend scaling strategies
+- Deployment and DevOps fundamentals
 
 ---
 
